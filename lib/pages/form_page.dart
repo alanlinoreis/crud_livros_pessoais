@@ -145,7 +145,7 @@ class _FormPageState extends State<FormPage> {
                   ),
                   const SizedBox(height: 16),
                   DropdownButtonFormField<Genre>(
-                    value: _selectedGenre,
+                    initialValue: _selectedGenre,
                     decoration: const InputDecoration(
                       labelText: 'Gênero',
                     ),

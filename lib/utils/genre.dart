@@ -36,4 +36,4 @@ extension GenreExtension on Genre {
         return 'Outro';
     }
   }
-}
+}   
