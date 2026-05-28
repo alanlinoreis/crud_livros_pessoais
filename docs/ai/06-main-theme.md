@@ -18,6 +18,8 @@ estilo em cada tela.
 
 ## Adaptações realizadas
 - Nenhuma nesta etapa. Cor pode ser ajustada conforme preferência.
+- Nome da classe principal alterado de MyApp para CrudApp, por ser
+  mais semântico para um projeto de CRUD acadêmico.
 
 ## Aprendizado
 - ColorScheme.fromSeed gera uma paleta completa a partir de uma única
