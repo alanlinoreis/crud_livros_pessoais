@@ -83,16 +83,16 @@ flutter run
 ## 📸 Evidências de execução
 
 ### Listagem vazia
-![Estado vazio](screenshots/01-empty-state.png)
+![Estado vazio](docs/screenshots/01-empty-state.png)
 
 ### Listagem com livros
-![Listagem](screenshots/02-list.png)
+![Listagem](docs/screenshots/02-list.png)
 
 ### Formulário de cadastro
-![Formulário](screenshots/03-form.png)
+![Formulário](docs/screenshots/03-form.png)
 
 ### Confirmação de remoção
-![Confirmação](screenshots/04-delete.png)
+![Confirmação](docs/screenshots/04-delete.png)
 
 ## 🤖 Uso de IA
 
